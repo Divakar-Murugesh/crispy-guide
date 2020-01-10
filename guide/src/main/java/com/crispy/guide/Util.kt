@@ -7,7 +7,7 @@ import android.net.Uri
 import android.util.Log
 
 
-object Utils {
+object Util {
 
     fun Activity.canOpenUrl(eventLink: String) {
         try {
