@@ -12,29 +12,17 @@ android {
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
-        versionName getVersionName()
+        versionName "1.0"
     }
-}
-
-/**Create github.properties in root project folder file with gpr.usr=GITHUB_USER_ID  & gpr.key=PERSONAL_ACCESS_TOKEN**/
-def githubProperties = new Properties()
-githubProperties.load(new FileInputStream(rootProject.file("github.properties")))
-
-def getVersionName = { ->
-    return "1.0.2" // Replace with version Name
-}
-
-def getArtificatId = { ->
-    return "divakarCommonAndroidLib" // Replace with library name ID
 }
 
 publishing {
     publications {
         bar(MavenPublication) {
-            groupId 'com.enefce.libraries'
-            artifactId getArtificatId()
-            version getVersionName()
-            artifact("$buildDir/outputs/aar/${getArtificatId()}-release.aar")
+            groupId 'com.crispy.guide'
+            artifactId 'guide'
+            version '1.0'
+            artifact("$buildDir/outputs/aar/guide-release.aar")
         }
     }
 
@@ -47,9 +35,8 @@ publishing {
             url = uri("https://maven.pkg.github.com/Divakar-Murugesh/crispy-guide")
 
             credentials {
-                /**Create github.properties in root project folder file with gpr.usr=GITHUB_USER_ID  & gpr.key=PERSONAL_ACCESS_TOKEN**/
-                username = githubProperties['gpr.usr'] ?: System.getenv("GPR_USER")
-                password = githubProperties['gpr.key'] ?: System.getenv("GPR_API_KEY")
+                username 'Divakar-Murugesh'
+                password 'b1548cd61c5136d941a040e3b1956e83ab6da7fc'
             }
         }
     }
