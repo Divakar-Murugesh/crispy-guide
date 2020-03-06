@@ -42,49 +42,6 @@
             }
         ]
     },
-    "2": {
-        "id": 1,
-        "title": "Article 1",
-        "url": "https://i.picsum.photos/id/102/400/700.jpg",
-        "descriptions": [
-            {
-                "type": "TEXT",
-                "title": "Meditation Quotes and Sayings",
-                "value": "As gold purified in a furnace loses its impurities and achieves its own true nature, the mind gets rid of the impurities of the attributes of delusion, attachment and purity through meditation and attains Reality. \n\n– Adi Shankara",
-                "highlights": [
-                    "– Adi Shankara"
-                ]
-            },
-            {
-                "type": "BUTTON",
-                "title": "Start Meditation",
-                "value": "sattva://open"
-            },
-            {
-                "type": "CARD",
-                "value": "",
-                "details": {
-                    "title": "Simple Card inside the article",
-                    "caption": "By Mr. Divaxxxzzz",
-                    "image": "https://img.jakpost.net/c/2019/03/02/2019_03_02_66706_1551461528._large.jpg"
-                }
-            },
-            {
-                "type": "TEXT",
-                "value": "Don’t worry about whether you are making progress or not. Just keep your attention on the Self twenty-four hours a day. Meditation is not something that should be done in a particular position at a particular time. It is an awareness and an attitude that must persist through the day. \n\n– Annamalai Swami",
-                "highlights": [
-                    "– Annamalai Swami"
-                ]
-            },
-            {
-                "type": "TEXT",
-                "value": "Don’t worry about whether you are making progress or not. Just keep your attention on the Self twenty-four hours a day. Meditation is not something that should be done in a particular position at a particular time. It is an awareness and an attitude that must persist through the day. \n\n– Annamalai Swami",
-                "highlights": [
-                    "– Annamalai Swami"
-                ]
-            }
-        ]
-    },
     "articles": [
         {
             "id": 1,
