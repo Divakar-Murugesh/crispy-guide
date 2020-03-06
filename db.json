@@ -1,10 +1,8 @@
 {
     "1": {
-        "albumId": 1,
         "id": 1,
         "title": "Article 1",
-        "url": "https://i.picsum.photos/id/100/400/500.jpg",
-        "thumbnailUrl": "https://i.picsum.photos/id/100/400/500.jpg",
+        "url": "https://i.picsum.photos/id/101/400/500.jpg",
         "descriptions": [
             {
                 "type": "TEXT",
@@ -46,214 +44,154 @@
     },
     "articles": [
         {
-            "albumId": 1,
             "id": 1,
             "title": "Article 1",
-            "url": "https://i.picsum.photos/id/100/400/500.jpg",
-            "thumbnailUrl": "https://i.picsum.photos/id/100/400/500.jpg"
+            "url": "https://i.picsum.photos/id/101/400/500.jpg"
         },
         {
-            "albumId": 2,
             "id": 2,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 2",
+            "url": "https://i.picsum.photos/id/102/400/700.jpg"
         },
         {
-            "albumId": 3,
             "id": 3,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 3",
+            "url": "https://i.picsum.photos/id/103/400/500.jpg"
         },
         {
-            "albumId": 4,
             "id": 4,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 4",
+            "url": "https://i.picsum.photos/id/104/400/800.jpg"
         },
         {
-            "albumId": 5,
             "id": 5,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 5",
+            "url": "https://i.picsum.photos/id/105/400/500.jpg"
         },
         {
-            "albumId": 6,
             "id": 6,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 6",
+            "url": "https://i.picsum.photos/id/106/400/700.jpg"
         },
         {
-            "albumId": 7,
             "id": 7,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 7",
+            "url": "https://i.picsum.photos/id/107/400/500.jpg"
         },
         {
-            "albumId": 8,
             "id": 8,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 8",
+            "url": "https://i.picsum.photos/id/108/400/800.jpg"
         },
         {
-            "albumId": 9,
             "id": 9,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 9",
+            "url": "https://i.picsum.photos/id/109/400/500.jpg"
         },
         {
-            "albumId": 10,
             "id": 10,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 10",
+            "url": "https://i.picsum.photos/id/110/400/700.jpg"
         },
         {
-            "albumId": 11,
             "id": 11,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 11",
+            "url": "https://i.picsum.photos/id/111/400/500.jpg"
         },
         {
-            "albumId": 12,
             "id": 12,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 12",
+            "url": "https://i.picsum.photos/id/112/400/800.jpg"
         },
         {
-            "albumId": 13,
             "id": 13,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 13",
+            "url": "https://i.picsum.photos/id/113/400/500.jpg"
         },
         {
-            "albumId": 14,
             "id": 14,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 14",
+            "url": "https://i.picsum.photos/id/114/400/700.jpg"
         },
         {
-            "albumId": 15,
             "id": 15,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 15",
+            "url": "https://i.picsum.photos/id/115/400/500.jpg"
         },
         {
-            "albumId": 16,
             "id": 16,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 16",
+            "url": "https://i.picsum.photos/id/116/400/800.jpg"
         },
         {
-            "albumId": 17,
             "id": 17,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 17",
+            "url": "https://i.picsum.photos/id/117/400/500.jpg"
         },
         {
-            "albumId": 18,
             "id": 18,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 18",
+            "url": "https://i.picsum.photos/id/118/400/700.jpg"
         },
         {
-            "albumId": 19,
             "id": 19,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 19",
+            "url": "https://i.picsum.photos/id/119/400/500.jpg"
         },
         {
-            "albumId": 20,
             "id": 20,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 20",
+            "url": "https://i.picsum.photos/id/120/400/800.jpg"
         },
         {
-            "albumId": 21,
             "id": 21,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 21",
+            "url": "https://i.picsum.photos/id/121/400/500.jpg"
         },
         {
-            "albumId": 22,
             "id": 22,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 22",
+            "url": "https://i.picsum.photos/id/122/400/700.jpg"
         },
         {
-            "albumId": 23,
             "id": 23,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 23",
+            "url": "https://i.picsum.photos/id/123/400/500.jpg"
         },
         {
-            "albumId": 24,
             "id": 24,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 24",
+            "url": "https://i.picsum.photos/id/124/400/800.jpg"
         },
         {
-            "albumId": 25,
             "id": 25,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 25",
+            "url": "https://i.picsum.photos/id/125/400/500.jpg"
         },
         {
-            "albumId": 26,
             "id": 26,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 26",
+            "url": "https://i.picsum.photos/id/126/400/700.jpg"
         },
         {
-            "albumId": 27,
             "id": 27,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 27",
+            "url": "https://i.picsum.photos/id/127/400/500.jpg"
         },
         {
-            "albumId": 28,
             "id": 28,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 28",
+            "url": "https://i.picsum.photos/id/128/400/800.jpg"
         },
         {
-            "albumId": 29,
             "id": 29,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 29",
+            "url": "https://i.picsum.photos/id/129/400/500.jpg"
         },
         {
-            "albumId": 30,
             "id": 30,
-            "title": "Article ",
-            "url": "https://upload.wikimedia.org/",
-            "thumbnailUrl": "https://upload.wikimedia.org/"
+            "title": "Article 30",
+            "url": "https://i.picsum.photos/id/130/400/700.jpg"
         }
     ]
 }
